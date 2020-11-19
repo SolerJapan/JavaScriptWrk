@@ -1,0 +1,2 @@
+# JavaScriptWrk
+Javascript practice
